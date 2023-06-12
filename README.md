@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-View -> https://dhomoinu.github.io/menu
+View -> https://dhomoinu.github.io/base-website/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
